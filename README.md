@@ -4,7 +4,7 @@
 SPIEC-EASI
 =========
 
-Sparse InversE Covariance estimation for Ecological Association and Statistical Inference
+Sparse InversE Covariance estimation for Ecological ASsociation Inference (SPIEC-EASI)
 
 This is the SPIEC-EASI MATLAB package which will be useful to anybody who wants to infer graphical models for absolute abundance and compositional data. Its primary application is intended for microbiome relative abundance data (generated from 16S amplicon sequence data). It also includes a generator for [overdispersed, zero inflated] multivariate, correlated count data. Please see the paper published in [PLoS Comp Bio](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226). 
 
