@@ -13,7 +13,7 @@ For R code please see https://github.com/zdk123/SpiecEasi
 Since the original publications several additions have been made to the package. In particular, a lower bound on the lambda-path is estimated from subsamples for speeding up the stability selection part. This procedure is detailed in
 [Generalized Stability Approach for Regularized Graphical Models](https://arxiv.org/abs/1605.07072).
 
-Neighborhood selection can be performed both with the Lasso and (approximate) TREX. The latter is explained in 
+Neighborhood selection can be performed both with the Lasso and (approximate) TREX. The latter approach is based on the methods detailed in 
 [Topology Adaptive Graph Estimation in High Dimensions](https://arxiv.org/pdf/1410.7279.pdf)
 
 ## Installation ##
